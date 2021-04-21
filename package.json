@@ -1,0 +1,19 @@
+{
+  "name": "reactclientprod",
+  "version": "1.0.0",
+  "description": "react client works off azure service",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app"
+  },
+  "keywords": [
+    "design",
+    "language"
+  ],
+  "author": "nirvik saha",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
